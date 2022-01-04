@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sindhuja-29
 - 👀 I’m interested in software development, web dev, and computer security.
 - 🌱 I’m currently learning VueJS and Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any software development projects.
 - 📫 How to reach me: sindhujasocials@gmail.com
 
 <!---
