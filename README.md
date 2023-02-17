@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sindhuja-29
 - 👀 I’m interested in software development, web dev, and computer security.
-- 🌱 I’ve just begun learning VueJS and have experience coding in R (programming language), C (programming language), and Java along with basic experience    with Python and SQL.
+- 🌱 I have experience with C, C++, Java, Node.js, MongoDB Atlas, Figma, R, Python and SQL.
 - 💞️ I’m looking to collaborate on any software development projects.
 - 📫 How to reach me: sindhujasocials@gmail.com
 
