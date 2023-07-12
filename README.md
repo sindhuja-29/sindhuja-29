@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sindhuja-29
+- 👋 Hi, I’m sindhuja!
 - 👀 I’m interested in software development, web dev, and computer security.
 - 🌱 I have experience with C, C++, Java, Node.js, MongoDB Atlas, Figma, R, Python and SQL.
 - 💞️ I’m looking to collaborate on any software development projects.
